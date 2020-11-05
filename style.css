@@ -12,7 +12,7 @@ body{
 }
 
 section{
-    background: url(./images/home.png) no-repeat center/cover;
+    background: url("/images/home.png") no-repeat center/cover;
     height: 100vh;
     transition: all .5s;
     
